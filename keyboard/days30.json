@@ -1,0 +1,253 @@
+{
+  "one_time": true,
+  "buttons": [
+    [{
+      "action": {
+        "type": "text",
+        "payload": "{\"button\": \"6\"}",
+        "label": "1"
+      },
+      "color": "secondary"
+    },
+      {
+      "action": {
+        "type": "text",
+        "payload": "{\"button\": \"6\"}",
+        "label": "2"
+      },
+      "color": "secondary"
+    },
+      {
+      "action": {
+        "type": "text",
+        "payload": "{\"button\": \"6\"}",
+        "label": "3"
+      },
+      "color": "secondary"
+    },
+    {
+      "action": {
+        "type": "text",
+        "payload": "{\"button\": \"6\"}",
+        "label": "4"
+      },
+      "color": "secondary"
+    }],
+    [{
+      "action": {
+        "type": "text",
+        "payload": "{\"button\": \"6\"}",
+        "label": "5"
+      },
+      "color": "secondary"
+    },
+      {
+      "action": {
+        "type": "text",
+        "payload": "{\"button\": \"6\"}",
+        "label": "6"
+      },
+      "color": "secondary"
+    },
+      {
+      "action": {
+        "type": "text",
+        "payload": "{\"button\": \"6\"}",
+        "label": "7"
+      },
+      "color": "secondary"
+    },
+    {
+      "action": {
+        "type": "text",
+        "payload": "{\"button\": \"6\"}",
+        "label": "8"
+      },
+      "color": "secondary"
+    }],
+    [{
+      "action": {
+        "type": "text",
+        "payload": "{\"button\": \"6\"}",
+        "label": "9"
+      },
+      "color": "secondary"
+    },
+      {
+      "action": {
+        "type": "text",
+        "payload": "{\"button\": \"6\"}",
+        "label": "10"
+      },
+      "color": "secondary"
+    },
+      {
+      "action": {
+        "type": "text",
+        "payload": "{\"button\": \"6\"}",
+        "label": "11"
+      },
+      "color": "secondary"
+    },
+    {
+      "action": {
+        "type": "text",
+        "payload": "{\"button\": \"6\"}",
+        "label": "12"
+      },
+      "color": "secondary"
+    }],
+    [{
+      "action": {
+        "type": "text",
+        "payload": "{\"button\": \"6\"}",
+        "label": "13"
+      },
+      "color": "secondary"
+    },
+      {
+      "action": {
+        "type": "text",
+        "payload": "{\"button\": \"6\"}",
+        "label": "14"
+      },
+      "color": "secondary"
+    },
+      {
+      "action": {
+        "type": "text",
+        "payload": "{\"button\": \"6\"}",
+        "label": "15"
+      },
+      "color": "secondary"
+    },
+    {
+      "action": {
+        "type": "text",
+        "payload": "{\"button\": \"6\"}",
+        "label": "16"
+      },
+      "color": "secondary"
+    }],
+    [{
+      "action": {
+        "type": "text",
+        "payload": "{\"button\": \"6\"}",
+        "label": "17"
+      },
+      "color": "secondary"
+    },
+      {
+      "action": {
+        "type": "text",
+        "payload": "{\"button\": \"6\"}",
+        "label": "18"
+      },
+      "color": "secondary"
+    },
+      {
+      "action": {
+        "type": "text",
+        "payload": "{\"button\": \"6\"}",
+        "label": "19"
+      },
+      "color": "secondary"
+    },
+    {
+      "action": {
+        "type": "text",
+        "payload": "{\"button\": \"6\"}",
+        "label": "20"
+      },
+      "color": "secondary"
+    }],
+    [{
+      "action": {
+        "type": "text",
+        "payload": "{\"button\": \"6\"}",
+        "label": "21"
+      },
+      "color": "secondary"
+    },
+      {
+      "action": {
+        "type": "text",
+        "payload": "{\"button\": \"6\"}",
+        "label": "22"
+      },
+      "color": "secondary"
+    },
+      {
+      "action": {
+        "type": "text",
+        "payload": "{\"button\": \"6\"}",
+        "label": "23"
+      },
+      "color": "secondary"
+    },
+    {
+      "action": {
+        "type": "text",
+        "payload": "{\"button\": \"6\"}",
+        "label": "24"
+      },
+      "color": "secondary"
+    }],
+    [{
+      "action": {
+        "type": "text",
+        "payload": "{\"button\": \"6\"}",
+        "label": "25"
+      },
+      "color": "secondary"
+    },
+      {
+      "action": {
+        "type": "text",
+        "payload": "{\"button\": \"6\"}",
+        "label": "26"
+      },
+      "color": "secondary"
+    },
+      {
+      "action": {
+        "type": "text",
+        "payload": "{\"button\": \"6\"}",
+        "label": "27"
+      },
+      "color": "secondary"
+    },
+    {
+      "action": {
+        "type": "text",
+        "payload": "{\"button\": \"6\"}",
+        "label": "28"
+      },
+      "color": "secondary"
+    }],
+    [{
+      "action": {
+        "type": "text",
+        "payload": "{\"button\": \"6\"}",
+        "label": "29"
+      },
+      "color": "secondary"
+    },
+      {
+      "action": {
+        "type": "text",
+        "payload": "{\"button\": \"6\"}",
+        "label": "30"
+      },
+      "color": "secondary"
+    },
+    {
+      "action": {
+        "type": "text",
+        "payload": "{\"button\": \"8default\"}",
+        "label": "Главное меню"
+      },
+      "color": "negative"
+    }]
+    ]
+}

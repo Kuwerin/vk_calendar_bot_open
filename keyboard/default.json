@@ -1,0 +1,29 @@
+{
+  "one_time": false,
+  "buttons": [
+    [{
+      "action": {
+        "type": "text",
+        "payload": "{\"button\": \"3\"}",
+        "label": "Запись"
+      },
+      "color": "positive"
+    }],
+      [{
+        "action": {
+          "type": "text",
+          "payload": "{\"button\": \"1about\"}",
+          "label": "Об услугах"
+        },
+        "color": "primary"
+      },
+    {
+      "action": {
+        "type": "text",
+        "payload": "{\"button\": \"1faq\"}",
+        "label": "Частые вопросы"
+      },
+      "color": "primary"
+    }]
+  ]
+}

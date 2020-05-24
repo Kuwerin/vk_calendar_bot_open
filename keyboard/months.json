@@ -1,0 +1,117 @@
+{
+  "one_time": true,
+  "buttons": [
+    [{
+      "action": {
+        "type": "text",
+        "payload": "{\"button\": \"5\"}",
+        "label": "Январь"
+      },
+      "color": "positive"
+    },
+      {
+      "action": {
+        "type": "text",
+        "payload": "{\"button\": \"5\"}",
+        "label": "Февраль"
+      },
+      "color": "positive"
+    },
+      {
+      "action": {
+        "type": "text",
+        "payload": "{\"button\": \"5\"}",
+        "label": "Март"
+      },
+      "color": "positive"
+    }],
+    [
+      {
+      "action": {
+        "type": "text",
+        "payload": "{\"button\": \"5\"}",
+        "label": "Апрель"
+      },
+      "color": "positive"
+    },
+      {
+      "action": {
+        "type": "text",
+        "payload": "{\"button\": \"5\"}",
+        "label": "Май"
+      },
+      "color": "positive"
+    },
+      {
+      "action": {
+        "type": "text",
+        "payload": "{\"button\": \"5\"}",
+        "label": "Июнь"
+      },
+      "color": "positive"
+    }
+    ],
+    [
+      {
+      "action": {
+        "type": "text",
+        "payload": "{\"button\": \"5\"}",
+        "label": "Июль"
+      },
+      "color": "positive"
+    },
+      {
+      "action": {
+        "type": "text",
+        "payload": "{\"button\": \"5\"}",
+        "label": "Август"
+      },
+      "color": "positive"
+    },
+      {
+      "action": {
+        "type": "text",
+        "payload": "{\"button\": \"5\"}",
+        "label": "Сентябрь"
+      },
+      "color": "positive"
+    }
+    ],
+    [
+      {
+      "action": {
+        "type": "text",
+        "payload": "{\"button\": \"5\"}",
+        "label": "Октябрь"
+      },
+      "color": "positive"
+    },
+      {
+      "action": {
+        "type": "text",
+        "payload": "{\"button\": \"5\"}",
+        "label": "Ноябрь"
+      },
+      "color": "positive"
+    },
+      {
+      "action": {
+        "type": "text",
+        "payload": "{\"button\": \"5\"}",
+        "label": "Декабрь"
+      },
+      "color": "positive"
+    }
+    ],
+    [
+     {
+      "action": {
+        "type": "text",
+        "payload": "{\"button\": \"8default\"}",
+        "label": "Главное меню"
+      },
+      "color": "primary"
+    }
+    ]
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "one_time": false,
+  "buttons": [
+    [{
+      "action": {
+        "type": "text",
+        "payload": "{\"button\": \"9default\"}",
+        "label": "Все верно, запишите меня"
+      },
+      "color": "positive"
+    }],
+      [{
+        "action": {
+          "type": "text",
+          "payload": "{\"button\": \"8default\"}",
+          "label": "Отмена"
+        },
+        "color": "negative"
+      }]
+  ]
+}

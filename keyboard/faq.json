@@ -1,0 +1,93 @@
+{
+  "one_time": false,
+  "buttons": [
+        [
+    {
+      "action": {
+        "type": "text",
+        "payload": "{\"button\": \"8default\"}",
+        "label": "В меню"
+      },
+      "color": "primary"
+    }],
+            [
+    {
+      "action": {
+        "type": "text",
+        "payload": "{\"button\": \"1faq\"}",
+        "label": "Парафинотерапия - зачем она?"
+      },
+      "color": "secondary"
+    }],
+
+
+    [
+    {
+      "action": {
+        "type": "text",
+        "payload": "{\"button\": \"1faq\"}",
+        "label": "Сколько держится ботокс волос?"
+      },
+      "color": "secondary"
+    }],
+
+    [
+    {
+      "action": {
+        "type": "text",
+        "payload": "{\"button\": \"1faq\"}",
+        "label": "Разница нанопластики и керат. выпряления"
+      },
+      "color": "secondary"
+    }],
+
+    [
+    {
+      "action": {
+        "type": "text",
+        "payload": "{\"button\": \"1faq\"}",
+        "label": "Биксипластия? Это что?"
+      },
+      "color": "secondary"
+    }],
+        
+    [
+    {
+      "action": {
+        "type": "text",
+        "payload": "{\"button\": \"1faq\"}",
+        "label": "Долговременная укладка бровей? Зачем?"
+      },
+      "color": "secondary"
+    }],
+
+    [
+    {
+      "action": {
+        "type": "text",
+        "payload": "{\"button\": \"1faq\"}",
+        "label": "Что такое \"Ботокс ресниц\"? Это надолго?"
+      },
+      "color": "secondary"
+    }],
+
+    [
+    {
+      "action": {
+        "type": "text",
+        "payload": "{\"button\": \"1faq\"}",
+        "label": "Чем обрабатывается стопа?"
+      },
+      "color": "secondary"
+    }],
+
+    [
+    {
+      "action": {
+        "type": "text",
+        "payload": "{\"button\": \"1faq\"}",
+        "label": "На сколько хватает депиляции?"
+      },
+      "color": "secondary"
+    }]
+  ]}

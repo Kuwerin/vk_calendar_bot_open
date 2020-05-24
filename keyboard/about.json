@@ -1,0 +1,142 @@
+{
+  "one_time": false,
+  "buttons": [
+        [
+    {
+      "action": {
+        "type": "text",
+        "payload": "{\"button\": \"8default\"}",
+        "label": "В меню"
+      },
+      "color": "primary"
+    }],
+    [{
+      "action": {
+        "type": "text",
+        "payload": "{\"button\": \"1about\"}",
+        "label": "Парафинотерапия рук"
+      },
+      "color": "secondary"
+    },
+    {
+      "action": {
+        "type": "text",
+        "payload": "{\"button\": \"1about\"}",
+        "label": "Ботокс волос"
+      },
+      "color": "secondary"
+    }],
+    [{
+      "action": {
+        "type": "text",
+        "payload": "{\"button\": \"1about\"}",
+        "label": "Нанопластика волос"
+      },
+      "color": "secondary"
+    },
+    {
+      "action": {
+        "type": "text",
+        "payload": "{\"button\": \"1about\"}",
+        "label": "Выпр. волос кератином"
+      },
+      "color": "secondary"
+    }],
+    [{
+      "action": {
+        "type": "text",
+        "payload": "{\"button\": \"1about\"}",
+        "label": "Биксипластия волос"
+      },
+      "color": "secondary"
+    },
+    {
+      "action": {
+        "type": "text",
+        "payload": "{\"button\": \"1about\"}",
+        "label": "Долговр. укладка бровей"
+      },
+      "color": "secondary"
+    }],
+    [{
+      "action": {
+        "type": "text",
+        "payload": "{\"button\": \"1about\"}",
+        "label": "Коррекция бровей"
+      },
+      "color": "secondary"
+    },
+    {
+      "action": {
+        "type": "text",
+        "payload": "{\"button\": \"1about\"}",
+        "label": "Окрашивание бровей"
+      },
+      "color": "secondary"
+    }],
+    [{
+      "action": {
+        "type": "text",
+        "payload": "{\"button\": \"1about\"}",
+        "label": "Ламинирование ресниц"
+      },
+      "color": "secondary"
+    },
+    {
+      "action": {
+        "type": "text",
+        "payload": "{\"button\": \"1about\"}",
+        "label": "Ботокс ресниц"
+      },
+      "color": "secondary"
+    }],
+    [{
+      "action": {
+        "type": "text",
+        "payload": "{\"button\": \"1about\"}",
+        "label": "Снятие нарощенных ресниц"
+      },
+      "color": "secondary"
+    },
+    {
+      "action": {
+        "type": "text",
+        "payload": "{\"button\": \"1about\"}",
+        "label": "Маникюр с покрытием"
+      },
+      "color": "secondary"
+    }],
+    [{
+      "action": {
+        "type": "text",
+        "payload": "{\"button\": \"1about\"}",
+        "label": "Педикюр с покрытием"
+      },
+      "color": "secondary"
+    },
+    {
+      "action": {
+        "type": "text",
+        "payload": "{\"button\": \"1about\"}",
+        "label": "Обработка стопы"
+      },
+      "color": "secondary"
+    }],
+    [{
+      "action": {
+        "type": "text",
+        "payload": "{\"button\": \"1about\"}",
+        "label": "Снятие старого материала"
+      },
+      "color": "secondary"
+    },
+    {
+      "action": {
+        "type": "text",
+        "payload": "{\"button\": \"1about\"}",
+        "label": "Депиляция (воск/паста)"
+      },
+      "color": "secondary"
+    }]
+    ]
+}
